@@ -1,0 +1,13 @@
+Project: 15 Coding Challenges with Arrays, Objects, and Sets
+
+Approach:
+
+Arrays: Used built‑in methods like Set, sort, slice, flat, and reduce to manipulate data.
+
+Objects: Leveraged key‑value pairs for counting, grouping, and merging.
+
+Sets: Used Set to handle uniqueness and simple set operations (union, intersection, difference).
+
+Mixed: Combined arrays and objects to implement small applications (phone book and shopping cart).
+
+Testing: Each function has a console.log test case showing expected output.
