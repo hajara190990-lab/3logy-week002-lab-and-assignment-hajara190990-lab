@@ -1,0 +1,10 @@
+### 					Summary
+Scrum is more than a framework; it is a rhythm of collaboration, inspection, and adaptation. At its heart lie the fundamentals: the cadence of events, the clarity of artifacts, and the accountability of roles. The Sprint, the Daily Scrum, the Review, and the Retrospective form the pulse of progress. Artifacts such as the Product Backlog, Sprint Backlog, and Increment embody transparency, while accountability ensure responsibility is shared yet distinct.
+The Scrum Team structure is a triad of purpose. The Product Owner steers vision and value, ensuring that every increment aligns with customer needs. The Scrum Master nurtures the team’s practice, removing impediments and guiding adherence to Scrum principles. The Developers transform ideas into working solutions, collaborating daily to bring the Product Owner’s vision to life. Together, they form a selfmanaging unit, empowered to deliver.
+When organizations grow, Scrum must scale. The Nexus framework extends scrum’s simplicity to larger initiatives, weaving multiple teams into a single fabric of delivery. Coordination, integration, and alignment become essential, yet the principles remain unchanged: transparency, inspection, and adaptation guide the way.
+Scrum is not isolated from other practices. The Kanban Guide for Scrum Teams enriches the framework with flowbased visualization, enabling teams to manage work in progress, optimize throughput, and respond swiftly to change. Kanban and Scrum together create a harmony of predictability and adaptability.
+Scrum is not a checklist but a way of working. Its fundamentals, roles, scaling practices, and integration form a living system. To study Scrum is to embrace a mindset of continuous improvement, where every Sprint is both a delivery and a lesson, every role both a responsibility and a partnership, and every practice both a discipline and an opportunity.
+
+### ![alt text](<Screenshot 2026-03-05 200802.png>)
+
+https://trello.com/invite/b/69ac98b3af6f530027e7e895/ATTI7863159216d6ac0e7378f054a799410421538907/bootcamp-tasks
