@@ -123,4 +123,4 @@ Test small pieces of code separately
 Class notes and examples
 
 ### Reflection  
- The strategies that worked best were reading error messages and breaking code into smaller parts. In the future, I will debug differently by slowing down, checking one line at a time, and keeping my checklist nearby to avoid repeating common mistakes.
+ The hardest part was how to arrange the loop in a block. The strategies that worked best were reading error messages and breaking code into smaller parts. In the future, I will debug differently by slowing down, checking one line at a time, and keeping my checklist nearby to avoid repeating common mistakes.
